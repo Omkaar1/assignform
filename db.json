@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "Name": "omakr",
+      "Age": "25",
+      "Address": "mumbai",
+      "Department": "Civil",
+      "Salary": "10lpa",
+      "Status": "false",
+      "id": 1
+    },
+    {
+      "Name": "Hrishi",
+      "Age": "22",
+      "Address": "Maumbai",
+      "Department": "Mechanical",
+      "Salary": "10lpa",
+      "Status": "false",
+      "id": 2
+    }
+  ]
+}
